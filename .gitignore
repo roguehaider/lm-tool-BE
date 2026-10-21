@@ -222,3 +222,6 @@ __marimo__/
 .claude
 config.bat
 node_modules
+
+# local env files
+.env*.local
