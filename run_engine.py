@@ -17,6 +17,11 @@ Options:
   --cta CTA           CTA: Book a Call | Claim Your Site | Get Your Grade | Watch Demo
 """
 
+import utils.net
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import sys
 import os
 import json
